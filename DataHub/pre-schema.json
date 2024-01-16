@@ -1,0 +1,4 @@
+{
+    "description": "Generic JSON schema, it requires just a JSON, nothing further specified",
+    "type": "object"
+}

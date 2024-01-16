@@ -1,0 +1,22 @@
+{
+    "type": "object",
+    "properties": {
+        "temperature": {
+            "type": "string"
+        },
+        "humidity": {
+            "type": "string"
+        },
+        "deviceName": {
+            "type": "string"
+        },
+        "time": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "temperature",
+        "humidity",
+        "time"
+    ]
+}
